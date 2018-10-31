@@ -1,0 +1,19 @@
+{
+    "name": "calClo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "parcel -p 3000 index.html"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.10.3"
+    },
+    "dependencies": {
+        "axios": "^0.18.0",
+        "react": ">=15",
+        "react-dom": "^16.6.0",
+        "react-router-dom": "^4.3.1",
+        "url": "^0.11.0"
+    }
+}

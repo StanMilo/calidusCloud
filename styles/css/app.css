@@ -1,0 +1,14 @@
+.container {
+    padding: 10px;
+    width: 100%;
+    height: 100;
+}
+
+h4.headertekst {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h4.collection-header {
+    font-family: 'Merriweather', serif;
+}
